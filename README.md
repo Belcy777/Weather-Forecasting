@@ -21,11 +21,9 @@ A simple and responsive Weather App that allows users to search for real-time we
 
 ---
 
-## 📸 Screenshot
+## 📸  screenshot 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/78d3d636-9da7-43da-875b-5d6e8b17ec87" />
 
-Add a screenshot of your app here:
-
-![Weather App Screenshot]![alt text](<Screenshot (8).png>)
 
 ---
 
@@ -35,3 +33,4 @@ Add a screenshot of your app here:
 
    ```bash
    git clone https://github.com/belcy777/Weather-Forecasting.git
+
